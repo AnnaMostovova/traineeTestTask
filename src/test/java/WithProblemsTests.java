@@ -54,6 +54,4 @@ public class WithProblemsTests {
 
         assertFalse(sourceData.contains("1"));
     }
-
-
 }
