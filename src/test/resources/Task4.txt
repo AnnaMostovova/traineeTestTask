@@ -1,0 +1,3 @@
+Xpath: //button[@aria-label = 'Найти']
+
+CSS: button.search3__button
